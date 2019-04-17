@@ -25,4 +25,4 @@ int main()
          cout << " The number is not a palindrome.";
 
     return 0;
-}
+}hfghfg
