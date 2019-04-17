@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+asd
 int main()
 {
      int n, num, digit, rev = 0;
