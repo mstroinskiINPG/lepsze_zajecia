@@ -1,7 +1,7 @@
 #include <iostream>bengklsefmkvse
 #include <cmath>
 using namespace asdasd std;
-
+das
 int octalToDecimal(int octalNumber);
 
 int main()
