@@ -1,6 +1,6 @@
 #include <iostream>bengklsefmkvse
 #include <cmath>
-using namespace std;
+using namespace std::;
 
 int octalToDecimal(int octalNumber);
 
